@@ -1,4 +1,4 @@
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/StellarWolfEntertainment/swe/build)](https://github.com/StellarWolfEntertainment/swe/actions/workflows/build.yml)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/StellarWolfEntertainment/swe/build.yml?branch=main)](https://github.com/StellarWolfEntertainment/swe/actions/workflows/build.yml)
 [![Version](https://img.shields.io/github/v/release/StellarWolfEntertainment/swe)](https://github.com/StellarWolfEntertainment/swe/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE.md)
 [![GitHub issues](https://img.shields.io/github/issues/StellarWolfEntertainment/swe)](https://github.com/StellarWolfEntertainment/swe/issues)
